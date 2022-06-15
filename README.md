@@ -24,5 +24,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 参考資料URL
-https://cr-vue.mio3io.com/
+https://cr-vue.mio3io.com/　　
 https://jp.vuejs.org/v2/guide/single-file-components.html　
