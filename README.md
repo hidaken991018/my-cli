@@ -39,3 +39,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
  - https://jeannie-blog.online/category/programming/javascript/ 
 - Test1 参考
  - https://qiita.com/tkhr/items/ac22019c891fe8fa5f91
+- componentsから読み取り
+ - https://qiita.com/kiyokiyo_kzsby/items/980c1dc45e00d2d3cbb4  
+-
